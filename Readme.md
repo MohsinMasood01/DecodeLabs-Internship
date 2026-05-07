@@ -2,7 +2,7 @@
 
 
 
-An AI-powered document analysis tool that simulates a Retrieval-Augmented Generation (RAG) 
+An AI-powered document analysis tool that simulates a Retrieval-Augmented Generation (RAG)
 
 workflow on legal documents. Built using Google Gemini and Python.
 
@@ -34,11 +34,7 @@ Google Terms of Service - May 2024 (20 pages)
 
 \## Setup
 
-Create a '.env' file with your Google Gemini API key:
-
-GOOGLE\_API\_KEY=your\_key\_here
-
-
+Create a '.env' file with your Google Gemini API key: GOOGLE\_API\_KEY=your\_key\_here
 
 Then install dependencies and run the notebook.
 
