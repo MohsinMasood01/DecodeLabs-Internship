@@ -26,6 +26,7 @@ Python, Jupyter Notebook, Google Gemini API ('google.genai'), pypdf, python-dote
 
 **Google Terms of Service - May 2024 (20 pages)**
 
+Note: This tool works on any PDF. Replace the filename in Cell 4 to analyze a different document.
 
 
 ## Setup
